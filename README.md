@@ -7,7 +7,7 @@ What does it do: Humidity sensor measuring relative humidity, barometric pressur
 BME 280 Links:
 
 <ul>
-  <li><a href="Humidity sensor measuring relative humidity, barometric pressure and ambient temperature">Library/Driver</a></li>
+  <li><a href="https://github.com/adafruit/Adafruit_BME280_Library">Library/Driver</a></li>
   <li><a href="https://cdn-learn.adafruit.com/assets/assets/000/115/588/original/bst-bme280-ds002.pdf?1664822559">Data Sheet</a>
 </li>
 </ul>
