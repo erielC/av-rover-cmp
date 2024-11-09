@@ -76,6 +76,8 @@ void setup()
     Serial.println();
     bme.verifyConnection();
     Serial.println();
+    bme.readInitialTemperature();
+    Serial.println();
 }
 
 void loop()
