@@ -5,6 +5,7 @@ SEDS Payload Sensor: BME 280
 What does it do: Humidity sensor measuring relative humidity, barometric pressure and ambient temperature
 
 BME 280 Links:
+<br/>
 NOTE: Libraries also located in .pio folder
 
 <ul>
