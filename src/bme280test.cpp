@@ -34,13 +34,13 @@ Adafruit_BME280 bme; // I2C
 
 //////////////////////// *** OBJECT  FUNCTIONS *** //////////////////////////////////
 void printValues();
+// bme.readInitialTempeature();
 // bme.readTemperature();
 // bme.readPressure();
 // bme.readHumidity();
 // bme.readAltitude();
 // bme.verifyConnection(); verifies I2C connection
 
-// TODO: bme.readInitialTempeature();
 /////////////////////////////////////////////////////////////////////////////////////
 unsigned long delayTime;
 
