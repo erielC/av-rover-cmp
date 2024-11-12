@@ -1,4 +1,5 @@
 # av-rover-cmp
+<a href="https://github.com/erielC/av-flight-cmp/tree/main?tab=readme-ov-file" target="_blank">Flight Computer Repo</a>
 
 <h3>GUIDELINES for Setting up platform.IO</h3>
 <ul>
